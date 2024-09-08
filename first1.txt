@@ -3,3 +3,4 @@ second line
 third feature
 latest feature
 remove stage file
+1
